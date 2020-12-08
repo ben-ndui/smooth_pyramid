@@ -16,7 +16,6 @@ class _PlayerListState extends State<PlayerList> {
     for (var player in player.docs) {
       print(player.data());
     }
-
     return Container();
   }
 }
