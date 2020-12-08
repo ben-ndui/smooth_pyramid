@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123084071639",
+    "project_id": "smooth-pyramid",
+    "storage_bucket": "smooth-pyramid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123084071639:android:0a2d39663734a1ae348692",
+        "android_client_info": {
+          "package_name": "com.smoothdesign.smooth_pyramid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123084071639-6g56qdlleiau6g1l6v5khg5jarq0st1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl-rCDMFxrlot9u4EWt5KRftyoaabQ3wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123084071639-6g56qdlleiau6g1l6v5khg5jarq0st1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
